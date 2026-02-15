@@ -8,7 +8,7 @@ This project was created to practice layout structuring, responsive design, and 
 
 ## 🚀 Live Demo
 
-🔗 https://starbucks-landing-page-clone-habx.vercel.app/
+🔗 https://microsoft-homepage-clone-ten.vercel.app/
 
 ---
 
@@ -88,4 +88,5 @@ Hardeep Singh
 Backend-focused MERN Developer | C++ & DSA Learner  
 
 If you like this project, consider giving it a ⭐
+
 
